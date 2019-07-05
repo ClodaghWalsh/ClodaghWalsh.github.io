@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Clodagh Walsh
+tagline:             Beginning Data Science
+url:                 http://ClodaghWalsh.github.io
 paginate:            2
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/ClodaghWalsh
 
 # Gems
 gems:
