@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Me, My Mistakes & I: My First Pass at Data Science
@@ -22,13 +23,13 @@ You can check out our project [here](https://github.com/camhilker/MTA-Turnstile-
 Already, I have been introduced to many topics and tools I hadn’t encountered in my self-guided study. Perhaps the most important lessons I learned are less technical, however. 
 
 
-###Data is everywhere!
+### Data is everywhere!
 
 Most of the data-related work I had done up to this point had been assigned to me in school. I was given a dataset and had to answer some defined
 question. Now, I am starting to ask my own questions and realizing just how much data available to us all. That being said, 
 
 
-###Data is MESSY.
+### Data is MESSY.
 
 Before Metis, I had mostly used national survey data that was pretty clean, well-defined, and easy to use. I expected the MTA data to be similar.
 However, some of the entries would inexplicably turn negative, and a few recorded over 1 million entries per day. Did the negative counts reflect
@@ -40,7 +41,7 @@ the questions become more heavy, and the consequence of getting the “wrong” 
 sentence, finding “good” data is even more important. 
 
 
-###Done is better than perfect. 
+### Done is better than perfect. 
 
 Okay so somebody famous figured that one out first, but still!
 
