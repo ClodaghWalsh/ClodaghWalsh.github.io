@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Me, My Mistakes & I: My First Pass at Data Science
+title: Me, My Mistakes & I: My First Try at Data Science
 ---
 
 I left my job a few months ago in search of a more creative career path; and I ended up
